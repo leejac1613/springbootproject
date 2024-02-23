@@ -19,6 +19,8 @@ public class Book {
     private Long id;
     private String title;
     private String author;
+    private float price;
+    //just for branch 2
 
     public Long getId() {
         return id;
